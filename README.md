@@ -1,1 +1,2 @@
 # zkouska.py
+print("vítej")
